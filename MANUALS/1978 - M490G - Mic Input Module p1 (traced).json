@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/1978 - M490G - Mic Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ea86928e61727130-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 23.1, 302.5, 428.0],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 586, "mm": 2670.6}, "curved": {"n": 56, "mm": 95.3}},
+  "text": {"rings": 139, "straight": {"n": 1448, "mm": 2031.2}, "curved": {"n": 355, "mm": 588.0}},
+  "tb": {"rings": 4, "straight": {"n": 138, "mm": 316.5}, "curved": {"n": 10, "mm": 16.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [117.0, 405.9, 280.7, 415.0], "text": "WARO-BECK SYSTEMS LTD"},
+   {"mm": [46.6, 397.0, 252.0, 412.2], "text": "WBS 841 PAOGAESS AVENUE, SCARBCAOUGH CNTAFIO"},
+   {"mm": [115.7, 395.3, 168.0, 400.6], "text": "TELeX 065*25399"},
+   {"mm": [203.6, 395.3, 278.1, 400.6], "text": "TELEPHONE 416/438-6550"},
+   {"mm": [137.3, 245.9, 190.2, 260.5], "text": "M49OG"},
+   {"mm": [125.7, 232.7, 204.5, 241.4], "text": "Mic INPUT MODULE"}
+  ]
+ },
+ "title_block": {
+  "mm": [39.9, 388.4, 260.9, 423.7],
+  "from": "title-block words (training set)",
+  "text": ["WARO-BECK SYSTEMS LTD", "WBS 841 PAOGAESS AVENUE, SCARBCAOUGH CNTAFIO", "TELeX 065*25399", "TELEPHONE 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–302 mm across, 23–428 mm up",
+  "- **Outlines:** line 28 rings, 586 straight (2,671 mm) / 56 curved (95.3 mm); text 139 rings, 1,448 straight (2,031 mm) / 355 curved (588 mm); tb 4 rings, 138 straight (316 mm) / 10 curved (16.7 mm)",
+  "- **Words (OCR):** 12 in 6 lines: WARO-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE, SCARBCAOUGH CNTAFIO · TELeX 065*25399 · TELEPHONE 416/438-6550 · M49OG · Mic INPUT MODULE",
+  "- **Title block:** (40, 388)–(261, 424) mm: WARO-BECK SYSTEMS LTD · WBS 841 PAOGAESS AVENUE, SCARBCAOUGH CNTAFIO · TELeX 065*25399 · TELEPHONE 416/438-6550"
+ ]
+}

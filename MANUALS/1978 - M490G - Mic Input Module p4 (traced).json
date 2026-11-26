@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/1978 - M490G - Mic Input Module.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/ea86928e61727130-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 335.5, 427.3],
+ "outlines": {
+  "line": {"rings": 40, "straight": {"n": 739, "mm": 3131.3}, "curved": {"n": 115, "mm": 169.8}},
+  "text": {"rings": 260, "straight": {"n": 2035, "mm": 2358.3}, "curved": {"n": 574, "mm": 916.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [29.6, 411.3, 144.4, 418.2], "text": "WAAD-BECX SYSTEms LTD_"},
+   {"mm": [138.6, 367.5, 195.8, 374.4], "text": "TECHNICAL DATA"},
+   {"mm": [123.5, 354.5, 159.6, 361.0], "text": "M49og Mic"},
+   {"mm": [163.0, 352.3, 213.1, 361.0], "text": "InPUT MODULE"},
+   {"mm": [43.2, 326.9, 113.8, 335.0], "text": "Power Requirements:"},
+   {"mm": [140.3, 327.1, 179.2, 334.7], "text": "+/-25 volts"},
+   {"mm": [180.9, 326.2, 193.4, 334.1], "text": "dc,"},
+   {"mm": [196.5, 327.7, 205.1, 334.2], "text": "40"},
+   {"mm": [207.3, 326.0, 273.5, 334.4], "text": "MA  nominal, MA"},
+   {"mm": [253.3, 328.0, 261.2, 333.2], "text": "80"},
+   {"mm": [140.8, 320.0, 173.6, 327.2], "text": "maximum."},
+   {"mm": [43.6, 306.6, 118.1, 315.0], "text": "Ambient Temperature:"},
+   {"mm": [158.0, 306.4, 223.5, 314.3], "text": "60  degrees Celsius"},
+   {"mm": [148.5, 307.4, 155.7, 312.7], "text": "t0"},
+   {"mm": [43.6, 294.1, 83.6, 301.0], "text": "Dimensions:"},
+   {"mm": [158.0, 294.1, 207.3, 300.5], "text": "wide 14.15\""},
+   {"mm": [209.2, 293.2, 269.7, 300.6], "text": "high 6.5\" deep"},
+   {"mm": [140.8, 287.6, 165.2, 294.5], "text": "(41 mm"},
+   {"mm": [176.4, 287.4, 201.0, 294.1], "text": "360 mm"},
+   {"mm": [212.0, 287.1, 240.7, 294.1], "text": "165 mm)"},
+   {"mm": [160.8, 14.7, 172.3, 21.2], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–427 mm up",
+  "- **Outlines:** line 40 rings, 739 straight (3,131 mm) / 115 curved (170 mm); text 260 rings, 2,035 straight (2,358 mm) / 574 curved (916 mm)",
+  "- **Words (OCR):** 35 in 21 lines: WAAD-BECX SYSTEms LTD_ · TECHNICAL DATA · M49og Mic · InPUT MODULE · Power Requirements: · +/-25 volts · dc, · 40 · MA  nominal, MA · 80 · maximum. · Ambient Temperature:"
+ ]
+}

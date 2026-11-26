@@ -1,0 +1,86 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/1978 - M490G - Mic Input Module (2).pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/adc42e712a54f038-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.2, 338.6, 422.5],
+ "outlines": {
+  "line": {"rings": 296, "straight": {"n": 3485, "mm": 7533.7}, "curved": {"n": 658, "mm": 1115.6}},
+  "text": {"rings": 267, "straight": {"n": 1980, "mm": 3001.6}, "curved": {"n": 484, "mm": 750.4}}
+ },
+ "circles": [
+  {"c": [214.8, 148.2], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [23.5, 112.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [49.1, 78.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [23.0, 89.8], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [272.4, 323.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [38.1, 269.2], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [24.7, 78.7], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [19.5, 263.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [261.7, 304.2, 275.9, 318.2], "w": 14.2, "h": 14.0, "from": "ring"},
+  {"mm": [293.2, 183.9, 307.3, 198.0], "w": 14.1, "h": 14.0, "from": "ring"},
+  {"mm": [175.5, 116.8, 194.3, 188.7], "w": 18.7, "h": 71.9, "from": "ring", "words": ["CTL", "LOGIC"]}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [109.5, 306.6, 217.0, 327.9], "text": "r-311~INSERT"},
+   {"mm": [6.5, 309.2, 44.3, 314.4], "text": "MIC INPUTS"},
+   {"mm": [6.0, 300.1, 43.6, 305.4], "text": "-6b/-30 dBm"},
+   {"mm": [96.9, 294.5, 104.5, 300.2], "text": ")II("},
+   {"mm": [13.6, 294.3, 36.7, 299.8], "text": "150 ohm"},
+   {"mm": [214.8, 294.9, 223.2, 298.5], "text": "-oJ"},
+   {"mm": [146.8, 282.4, 184.6, 287.7], "text": "SENSITIVITY"},
+   {"mm": [82.0, 271.4, 93.9, 281.2], "text": "-?lE"},
+   {"mm": [18.4, 272.7, 37.1, 278.0], "text": "INPUT"},
+   {"mm": [156.7, 272.7, 173.4, 278.0], "text": "(30dB"},
+   {"mm": [11.9, 265.3, 44.3, 270.6], "text": "SELECTOR"},
+   {"mm": [13.4, 258.4, 42.3, 263.7], "text": "CONTROL"},
+   {"mm": [41.7, 244.4, 55.1, 249.7], "text": "COM"},
+   {"mm": [136.0, 174.9, 148.1, 180.2], "text": "CUE"},
+   {"mm": [6.9, 152.4, 55.9, 175.0], "text": "~~~~~~~~ro~:"},
+   {"mm": [41.0, 141.0, 56.6, 159.2], "text": "l~UE"},
+   {"mm": [179.8, 144.4, 191.5, 149.7], "text": "CTL"},
+   {"mm": [222.2, 144.7, 230.6, 149.9], "text": "CU"},
+   {"mm": [250.2, 144.7, 283.3, 149.9], "text": "ACH ON"},
+   {"mm": [86.8, 133.9, 120.0, 139.1], "text": "CHON*"},
+   {"mm": [176.6, 133.9, 194.3, 139.1], "text": "LOGIC"},
+   {"mm": [136.4, 120.0, 161.9, 132.8], "text": "OFF~"},
+   {"mm": [123.5, 122.2, 131.7, 127.5], "text": "CH"},
+   {"mm": [21.6, 107.7, 55.7, 113.0], "text": "ON/START"},
+   {"mm": [12.7, 97.4, 55.7, 102.6], "text": "TIMER RESET"},
+   {"mm": [113.6, 83.1, 150.3, 93.7], "text": "----fV"},
+   {"mm": [21.2, 84.6, 55.7, 89.9], "text": "OFF TALLY"},
+   {"mm": [22.9, 74.5, 55.9, 79.8], "text": "OFF/STOP"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 0–422 mm up",
+  "- **Outlines:** line 296 rings, 3,485 straight (7,534 mm) / 658 curved (1,116 mm); text 267 rings, 1,980 straight (3,002 mm) / 484 curved (750 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 4.5 @ (214.8, 148.2), r 2.3 @ (23.5, 112.4), r 2.3 @ (49.1, 78.5), r 2.3 @ (23.0, 89.8)",
+  "- **Closed boxes:** 3; named: CTL LOGIC",
+  "- **Words (OCR):** 38 in 32 lines: r-311~INSERT · MIC INPUTS · -6b/-30 dBm · )II( · 150 ohm · -oJ · SENSITIVITY · -?lE · INPUT · (30dB · SELECTOR · CONTROL"
+ ]
+}

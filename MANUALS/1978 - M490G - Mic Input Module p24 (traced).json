@@ -1,0 +1,83 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/1978 - M490G - Mic Input Module.pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/ea86928e61727130-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.2, 338.6, 422.5],
+ "outlines": {
+  "line": {"rings": 339, "straight": {"n": 3690, "mm": 8310.7}, "curved": {"n": 536, "mm": 879.5}},
+  "text": {"rings": 224, "straight": {"n": 1775, "mm": 2224.5}, "curved": {"n": 606, "mm": 986.5}}
+ },
+ "circles": [
+  {"c": [214.8, 148.2], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [49.1, 78.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [24.7, 78.7], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [261.7, 304.2, 275.9, 318.2], "w": 14.2, "h": 14.0, "from": "ring"},
+  {"mm": [98.2, 300.9, 101.7, 305.1], "w": 3.5, "h": 4.2, "from": "ring"},
+  {"mm": [293.2, 183.9, 307.3, 198.0], "w": 14.1, "h": 14.0, "from": "ring"},
+  {"mm": [175.5, 116.8, 194.3, 188.7], "w": 18.7, "h": 71.9, "from": "ring", "words": ["PGmi", "CUE", "CTL", "LoGIc"]}
+ ],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [234.7, 328.2, 256.3, 335.1], "text": "FADER"},
+   {"mm": [232.1, 319.5, 280.0, 326.9], "text": "(-15dB) CH ON"},
+   {"mm": [193.4, 315.6, 217.6, 322.6], "text": "INSERT"},
+   {"mm": [119.6, 303.1, 145.9, 320.9], "text": "38"},
+   {"mm": [6.5, 309.2, 45.1, 316.1], "text": "Mic InPuts"},
+   {"mm": [5.4, 302.7, 44.9, 310.4], "text": "~60/-30 dBm"},
+   {"mm": [13.0, 295.8, 37.8, 302.7], "text": "150 ohm"},
+   {"mm": [145.9, 283.0, 185.2, 290.0], "text": "SENSITIVITY"},
+   {"mm": [17.3, 272.5, 38.2, 279.4], "text": "INPUT"},
+   {"mm": [155.4, 275.3, 177.5, 282.2], "text": "(30dB)"},
+   {"mm": [10.8, 266.0, 45.3, 272.9], "text": "SELECTOR"},
+   {"mm": [12.5, 259.5, 43.8, 266.5], "text": "CONTROL"},
+   {"mm": [41.0, 242.9, 57.2, 250.6], "text": "com"},
+   {"mm": [293.4, 200.4, 307.0, 206.8], "text": "CUE"},
+   {"mm": [135.4, 176.0, 148.8, 182.4], "text": "CUE"},
+   {"mm": [45.8, 166.7, 56.6, 173.6], "text": "ON"},
+   {"mm": [176.2, 164.5, 193.7, 173.2], "text": "PGmi"},
+   {"mm": [6.5, 160.2, 39.1, 167.2], "text": "EXTERNAL"},
+   {"mm": [43.6, 155.9, 56.6, 162.4], "text": "OFF"},
+   {"mm": [178.5, 155.0, 191.9, 162.0], "text": "CUE"},
+   {"mm": [5.8, 154.4, 39.7, 161.3], "text": "CONTROLS"},
+   {"mm": [43.2, 144.7, 57.2, 152.3], "text": "CUE"},
+   {"mm": [179.2, 145.3, 192.6, 151.8], "text": "CTL"},
+   {"mm": [221.3, 144.7, 235.3, 151.6], "text": "CUE"},
+   {"mm": [262.1, 144.7, 272.5, 151.6], "text": "Ch"},
+   {"mm": [274.0, 145.3, 283.7, 151.8], "text": "ON"},
+   {"mm": [86.4, 133.9, 108.4, 140.8], "text": "ch ON"},
+   {"mm": [175.3, 134.3, 194.1, 141.2], "text": "LoGIc"},
+   {"mm": [122.4, 123.1, 132.6, 129.5], "text": "Ch"},
+   {"mm": [135.2, 122.2, 161.3, 130.4], "text": "OFF X"},
+   {"mm": [21.2, 108.4, 56.1, 116.5], "text": "On /START"},
+   {"mm": [11.9, 97.6, 55.9, 104.5], "text": "Timer RESET"},
+   {"mm": [20.1, 86.4, 56.1, 93.3], "text": "OFF TALLY"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 0–422 mm up",
+  "- **Outlines:** line 339 rings, 3,690 straight (8,311 mm) / 536 curved (880 mm); text 224 rings, 1,775 straight (2,224 mm) / 606 curved (986 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 4.5 @ (214.8, 148.2), r 2.3 @ (49.1, 78.5), r 2.3 @ (24.7, 78.7)",
+  "- **Closed boxes:** 4; named: PGmi CUE CTL LoGIc",
+  "- **Words (OCR):** 35 in 33 lines: FADER · (-15dB) CH ON · INSERT · 38 · Mic InPuts · ~60/-30 dBm · 150 ohm · SENSITIVITY · INPUT · (30dB) · SELECTOR · CONTROL"
+ ]
+}

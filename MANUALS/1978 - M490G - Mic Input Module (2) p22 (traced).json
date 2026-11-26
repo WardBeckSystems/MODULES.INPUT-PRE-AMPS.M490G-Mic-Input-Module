@@ -1,0 +1,143 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/1978 - M490G - Mic Input Module (2).pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/adc42e712a54f038-p22.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.5, 338.5, 419.9],
+ "outlines": {
+  "line": {"rings": 424, "straight": {"n": 4899, "mm": 12171.2}, "curved": {"n": 1042, "mm": 1491.0}},
+  "text": {"rings": 449, "straight": {"n": 2487, "mm": 2214.4}, "curved": {"n": 1011, "mm": 1302.3}}
+ },
+ "circles": [
+  {"c": [233.3, 79.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [253.7, 368.7], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [233.4, 93.9], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [243.1, 26.5], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [78.8, 378.8], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [107.0, 378.7], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [116.0, 97.8], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [231.2, 358.8, 242.5, 398.3], "w": 11.2, "h": 39.5, "from": "ring"},
+  {"mm": [233.0, 379.8, 240.9, 396.8], "w": 8.0, "h": 17.1, "from": "ring"},
+  {
+   "mm": [12.1, 372.9, 119.8, 386.2],
+   "w": 107.7,
+   "h": 13.3,
+   "from": "ring",
+   "words": ["ISPIm", "Solecto", "tcnes", "muquay", "Bjction", "Inter locked", "either", "4nput", "Gourc"]
+  },
+  {"mm": [232.6, 360.6, 240.7, 377.6], "w": 8.2, "h": 17.1, "from": "ring"},
+  {"mm": [246.9, 311.3, 258.0, 351.9], "w": 11.1, "h": 40.6, "from": "ring"},
+  {"mm": [231.2, 311.3, 242.3, 351.9], "w": 11.1, "h": 40.5, "from": "ring"},
+  {"mm": [248.4, 333.3, 256.3, 350.4], "w": 7.8, "h": 17.1, "from": "ring"},
+  {"mm": [232.7, 333.3, 240.7, 350.2], "w": 7.9, "h": 16.8, "from": "ring"},
+  {
+   "mm": [11.0, 326.4, 119.0, 339.8],
+   "w": 108.0,
+   "h": 13.3,
+   "from": "ring",
+   "words": ["Prggrak", "DSSGNhOS", "IEcnes", "19Fak;", "depressed.", "mxing", "netrorks", "Joprco", "Jixing", "buses"]
+  },
+  {"mm": [233.0, 313.1, 240.5, 330.5], "w": 7.6, "h": 17.5, "from": "ring"},
+  {"mm": [248.5, 313.1, 255.8, 330.5], "w": 7.3, "h": 17.5, "from": "ring"},
+  {"mm": [235.3, 198.2, 252.9, 204.0], "w": 17.5, "h": 5.8, "from": "ring"},
+  {
+   "mm": [11.2, 91.8, 118.5, 102.0],
+   "w": 107.3,
+   "h": 10.2,
+   "from": "ring",
+   "words": ["chayhei", "inoicoror", "[umlnuted", "channel>", "beino", "Ihltcnat", "incicare"]
+  },
+  {"mm": [243.5, 70.4, 262.3, 89.2], "w": 18.8, "h": 18.8, "from": "ring"},
+  {"mm": [11.2, 72.5, 118.5, 82.5], "w": 107.3, "h": 9.9, "from": "ring", "words": ["Jk:", "5n]zi", "Homentury", "Geaon", "channe|<", "Fe"]},
+  {"mm": [228.7, 43.8, 257.6, 66.1], "w": 28.9, "h": 22.3, "from": "ring"},
+  {"mm": [230.6, 45.6, 255.6, 64.3], "w": 25.0, "h": 18.8, "from": "ring"},
+  {
+   "mm": [10.8, 49.2, 118.1, 62.4],
+   "w": 107.3,
+   "h": 13.2,
+   "from": "ring",
+   "words": ["Xcchannet,", "Shiech", "caHAFI", "orer \"Than_", "'budltsin", "PRoGagh", "3hlech", "channe", "Indicare", "{orur"]
+  }
+ ],
+ "text": {
+  "words": 60,
+  "lines": [
+   {"mm": [252.6, 412.6, 263.8, 415.7], "text": "4490 €"},
+   {"mm": [14.2, 381.7, 41.5, 384.8], "text": "ISPIm Solecto"},
+   {"mm": [51.8, 381.7, 62.2, 384.1], "text": "tcnes"},
+   {"mm": [101.9, 380.8, 117.9, 384.0], "text": "muquay"},
+   {"mm": [14.2, 377.6, 35.8, 380.7], "text": "Inter locked"},
+   {"mm": [61.7, 373.9, 96.3, 381.1], "text": "Bjction either"},
+   {"mm": [21.6, 374.4, 43.8, 376.8], "text": "4nput Gourc"},
+   {"mm": [12.7, 335.5, 27.0, 338.6], "text": "Prggrak"},
+   {"mm": [41.5, 335.5, 61.3, 337.9], "text": "DSSGNhOS"},
+   {"mm": [55.3, 327.1, 110.5, 335.0], "text": "19Fak; mxing netrorks"},
+   {"mm": [66.1, 335.5, 82.0, 337.9], "text": "IEcnes"},
+   {"mm": [13.6, 331.4, 32.8, 334.5], "text": "depressed."},
+   {"mm": [20.7, 328.2, 32.6, 331.3], "text": "Joprco"},
+   {"mm": [71.7, 328.2, 96.3, 331.3], "text": "Jixing buses"},
+   {"mm": [12.7, 132.3, 32.6, 135.5], "text": "LTTE4uator"},
+   {"mm": [19.9, 127.8, 38.6, 132.6], "text": "cotcntary"},
+   {"mm": [52.7, 131.5, 64.6, 134.6], "text": "shitch"},
+   {"mm": [90.9, 130.6, 102.8, 133.7], "text": "Icutch"},
+   {"mm": [12.3, 121.6, 52.7, 128.7], "text": "{hveraids ttonaioc"},
+   {"mm": [55.1, 123.5, 69.1, 129.0], "text": "\"beyend"},
+   {"mm": [88.5, 127.4, 97.4, 130.5], "text": "ated"},
+   {"mm": [88.5, 124.4, 109.2, 127.5], "text": "nite FOS"},
+   {"mm": [104.3, 127.4, 117.0, 129.8], "text": "ovina"},
+   {"mm": [108.8, 119.8, 118.3, 127.7], "text": "'CGe"},
+   {"mm": [39.7, 121.1, 52.5, 124.2], "text": "Wocrar"},
+   {"mm": [12.7, 118.7, 24.0, 121.1], "text": "channi"},
+   {"mm": [34.3, 117.9, 52.7, 121.0], "text": "cerajtely"},
+   {"mm": [20.7, 96.3, 55.1, 100.3], "text": "chayhei inoicoror"},
+   {"mm": [89.2, 96.3, 111.4, 99.4], "text": "[umlnuted"},
+   {"mm": [13.6, 93.9, 28.7, 96.3], "text": "incicare"},
+   {"mm": [38.2, 93.3, 85.3, 96.4], "text": "channel> beino Ihltcnat"},
+   {"mm": [248.9, 91.3, 257.8, 96.1], "text": "OFF"},
+   {"mm": [35.0, 77.3, 66.9, 80.4], "text": "5n]zi Homentury"},
+   {"mm": [99.1, 73.0, 108.6, 80.9], "text": "Jk:"},
+   {"mm": [261.7, 29.6, 313.9, 80.7], "text": "HIBSps ."},
+   {"mm": [13.6, 74.9, 24.8, 77.3], "text": "Geaon"},
+   {"mm": [42.3, 74.1, 58.9, 77.2], "text": "channe|<"},
+   {"mm": [74.9, 74.1, 83.8, 76.5], "text": "Fe"},
+   {"mm": [12.7, 58.1, 26.3, 60.5], "text": "caHAFI"},
+   {"mm": [34.3, 57.4, 46.2, 60.5], "text": "Shiech"},
+   {"mm": [59.8, 52.9, 118.3, 61.4], "text": "Xcchannet, orer \"Than_ 'budltsin"},
+   {"mm": [24.6, 54.2, 35.8, 57.3], "text": "3hlech"},
+   {"mm": [48.1, 49.9, 116.4, 57.8], "text": "PRoGagh channe Indicare {orur"}
+  ]
+ },
+ "dots": [
+  {"c": [98.9, 382.2], "r": 1.0, "lines": 0},
+  {"c": [46.6, 378.9], "r": 1.0, "lines": 0},
+  {"c": [60.6, 378.8], "r": 1.0, "lines": 0},
+  {"c": [113.4, 336.2], "r": 1.0, "lines": 0},
+  {"c": [40.0, 332.8], "r": 1.0, "lines": 0},
+  {"c": [37.9, 332.7], "r": 1.0, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 4–420 mm up",
+  "- **Outlines:** line 424 rings, 4,899 straight (12,171 mm) / 1,042 curved (1,491 mm); text 449 rings, 2,487 straight (2,214 mm) / 1,011 curved (1,302 mm)",
+  "- **Circles and arcs:** 7 circles, 0 arcs; largest r 5.0 @ (233.3, 79.6), r 3.0 @ (253.7, 368.7), r 2.4 @ (233.4, 93.9), r 2.0 @ (243.1, 26.5)",
+  "- **Closed boxes:** 18; named: ISPIm Solecto tcnes muquay Bjction Inter; Prggrak DSSGNhOS IEcnes 19Fak; depressed; chayhei inoicoror [umlnuted channel> bei; Jk: 5n]zi Homentury Geaon channe|< Fe; Xcchannet, Shiech caHAFI orer \"Than_ 'bu",
+  "- **Dots (junctions):** 6",
+  "- **Words (OCR):** 60 in 43 lines: 4490 € · ISPIm Solecto · tcnes · muquay · Inter locked · Bjction either · 4nput Gourc · Prggrak · DSSGNhOS · 19Fak; mxing netrorks · IEcnes · depressed."
+ ]
+}

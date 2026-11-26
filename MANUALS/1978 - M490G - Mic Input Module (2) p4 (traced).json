@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/1978 - M490G - Mic Input Module (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/adc42e712a54f038-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 335.5, 427.3],
+ "outlines": {
+  "line": {"rings": 227, "straight": {"n": 2238, "mm": 5019.6}, "curved": {"n": 498, "mm": 801.5}},
+  "text": {"rings": 107, "straight": {"n": 782, "mm": 875.6}, "curved": {"n": 243, "mm": 378.5}}
+ },
+ "circles": [{"c": [70.9, 297.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [139.3, 367.0, 195.2, 372.1], "text": "TECH ICAL DATA"},
+   {"mm": [123.7, 354.1, 152.9, 359.1], "text": "M490G MI"},
+   {"mm": [163.7, 353.9, 210.3, 358.9], "text": "INP UT MODULE"},
+   {"mm": [44.3, 327.1, 76.9, 332.4], "text": "Po wer Req"},
+   {"mm": [88.7, 327.1, 106.4, 332.4], "text": "emenl"},
+   {"mm": [148.1, 326.9, 177.9, 332.2], "text": "-25 volts"},
+   {"mm": [182.4, 326.2, 259.5, 333.7], "text": "oc, 40 mA \"omi nal, 80"},
+   {"mm": [149.2, 307.0, 165.4, 311.1], "text": "10 60"},
+   {"mm": [173.6, 306.8, 210.9, 312.1], "text": "egrees Ce ls"},
+   {"mm": [141.8, 293.6, 153.9, 298.9], "text": "1.6\""},
+   {"mm": [164.1, 293.6, 173.6, 298.9], "text": "ide"},
+   {"mm": [186.1, 293.6, 191.9, 298.9], "text": "14"},
+   {"mm": [210.3, 293.6, 220.2, 298.9], "text": "hig"},
+   {"mm": [254.5, 293.6, 269.0, 298.9], "text": "deep"},
+   {"mm": [155.7, 287.6, 164.3, 292.4], "text": "mm"},
+   {"mm": [177.3, 287.4, 199.7, 292.6], "text": "360 mm"},
+   {"mm": [213.3, 287.4, 236.0, 292.6], "text": "165 mm"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–427 mm up",
+  "- **Outlines:** line 227 rings, 2,238 straight (5,020 mm) / 498 curved (802 mm); text 107 rings, 782 straight (876 mm) / 243 curved (378 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (70.9, 297.0)",
+  "- **Words (OCR):** 39 in 21 lines: TECH ICAL DATA · M490G MI · INP UT MODULE · Po wer Req · emenl · -25 volts · oc, 40 mA \"omi nal, 80 · 10 60 · egrees Ce ls · 1.6\" · ide · 14"
+ ]
+}

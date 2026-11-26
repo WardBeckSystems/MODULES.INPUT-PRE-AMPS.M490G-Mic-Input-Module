@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/1978 - M490G - Mic Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/adc42e712a54f038-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 23.1, 313.5, 428.0],
+ "outlines": {
+  "line": {"rings": 97, "straight": {"n": 1328, "mm": 4014.8}, "curved": {"n": 194, "mm": 346.8}},
+  "text": {"rings": 114, "straight": {"n": 1089, "mm": 1425.8}, "curved": {"n": 283, "mm": 454.6}}
+ },
+ "circles": [
+  {"c": [173.3, 253.0], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [179.6, 237.0], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [264.8, 397.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [146.6, 409.1, 151.1, 412.6], "w": 4.5, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [203.8, 406.1, 225.8, 413.5], "text": "YST"},
+   {"mm": [41.0, 394.0, 260.2, 412.0], "text": "[VVE3S] e\"'F'AOGl'lEsa AVI!l\"\"'-'IE ,~CNT~ 38"},
+   {"mm": [203.8, 394.0, 252.0, 399.8], "text": "TELE\"'\"'ONl! \"'I1'''"},
+   {"mm": [116.4, 394.0, 143.4, 398.8], "text": "Te:~I! 06"},
+   {"mm": [139.0, 244.8, 188.3, 257.3], "text": "M490G"},
+   {"mm": [126.5, 232.5, 202.9, 239.0], "text": "MIC INPUT MODULE"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–314 mm across, 23–428 mm up",
+  "- **Outlines:** line 97 rings, 1,328 straight (4,015 mm) / 194 curved (347 mm); text 114 rings, 1,089 straight (1,426 mm) / 283 curved (455 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 5.0 @ (173.3, 253.0), r 2.8 @ (179.6, 237.0), r 1.8 @ (264.8, 397.7)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 18 in 10 lines: YST · [VVE3S] e\"'F'AOGl'lEsa AVI!l\"\"'-'IE ,~CNT~ 38 · TELE\"'\"'ONl! \"'I1''' · Te:~I! 06 · M490G · MIC INPUT MODULE · ps · BS · tp · ht"
+ ]
+}
