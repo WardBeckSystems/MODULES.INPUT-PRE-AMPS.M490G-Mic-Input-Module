@@ -20,7 +20,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Words (OCR):** 94 in 62 lines: P2 · Al 1 MiC B · NC · NC · ci 3 · Mlc A · NC Dl 4 NC · RT · El 5 INSERT · RT · Fl 6 INSERT · RT
 - **Title block:** (122, 8)–(338, 110) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN: PA · M49oG · ENG. PA · MiC INPUT · MODULE · CKD · CONNECTOR REAR VIEW · APP · SCALE · ISSUE · 490-04-015
 
-Every curve, box, word and wire group: [1978 - M490G - 490-04-015 - MIC INPUT MODULE (traced).json](../MECHANICAL/1978%20-%20M490G%20-%20490-04-015%20-%20MIC%20INPUT%20MODULE%20(traced).json) (the CAD file: `1978 - M490G - 490-04-015 - MIC INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-04-015 - MIC INPUT MODULE (traced).json](../MECHANICAL/1978%20-%20M490G%20-%20490-04-015%20-%20MIC%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-04-015 - MIC INPUT MODULE (traced).dxf`).
 
 ## Full text
 

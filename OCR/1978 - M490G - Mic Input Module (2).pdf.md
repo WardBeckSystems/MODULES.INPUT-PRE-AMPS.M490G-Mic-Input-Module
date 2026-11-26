@@ -23,7 +23,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Closed boxes:** 1
 - **Words (OCR):** 18 in 10 lines: YST · [VVE3S] e"'F'AOGl'lEsa AVI!l""'-'IE ,~CNT~ 38 · TELE"'"'ONl! "'I1''' · Te:~I! 06 · M490G · MIC INPUT MODULE · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p1 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p1 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p1 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 73 in 35 lines: WA · ECl< YSTEMS L.TO · TABLE OF CO NTE NTS · 9OG MIC IN PU MOOULE · Wa ,.,..a...t · I_Ito 1_2 · Tec ...ic al Oata · irc it De sc ipt ion · 2.1102_5 · Part Li st · 3-1 103-9 · CO.016
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p2 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p2 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p2 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 270 in 95 lines: WA · CK YSTEM LTC. · TECHN ICAL DATA · M4gOG Ml · NPUT MODULE · Input Sen si · -60 10 -30 Bm re · 150 · ou rce · F"requency Re sPon se: · dB rom · 30 Hz to 20 kHz
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p3 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p3 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p3 (
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (70.9, 297.0)
 - **Words (OCR):** 39 in 21 lines: TECH ICAL DATA · M490G MI · INP UT MODULE · Po wer Req · emenl · -25 volts · oc, 40 mA "omi nal, 80 · 10 60 · egrees Ce ls · 1.6" · ide · 14
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p4 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p4 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p4 (
 - **Words (OCR):** 143 in 98 lines: LULPM BECK EYXNER" · E9CRiptiON · LRCUAT · 4lang · IhpUT · PCHLE · providen · irclubive · Maedc · micrwphoto channei Tagilidice, · ellde M4ing ecnuator, Dourcc sclecior · Mriro
 - **Title block:** (58, 239)–(107, 426) mm: LULPM BECK EYXNER" · providen · Maedc · npul · Eulclic · coniact · Icpedate · hicher
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p5 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p5 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p5 (
 - **Closed boxes:** 1
 - **Words (OCR):** 310 in 125 lines: CIR CU IT DESCRI PTION · M490G MIC INPUT MODULE · Program Channe Switch · Z2 · CMOS an.log switch, sl!'t"\l'lng · Cll ve · wi · element · 01 the PROGRAM channe · The ontro · ol · to ope,.ate
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p6 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p6 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p6 (
 - **Dots (junctions):** 2
 - **Words (OCR):** 400 in 178 lines: WAR · SY TE MS LT · IRCU IT DESCR IP TION · M490G MIC INP UT MODULE · 28 is · CMOS · li p-f lcp · er vi ng · la tc · mai · 1U~ · of 22
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p7 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p7 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -100,7 +100,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p7 (
 - **Circles and arcs:** 11 circles, 0 arcs; largest r 2.2 @ (57.4, 150.8), r 2.2 @ (77.5, 330.7), r 2.1 @ (90.2, 290.6), r 2.1 @ (64.9, 130.6)
 - **Words (OCR):** 296 in 128 lines: WA · -BECK YSTE · LTC · CIRCUIT OESCRI TIO · 9OG MIC IN UT MOOULE · "'omenl.ry ope".lion of It\e CHANNEL OF · switch SWS or ....,)<.>e.U...y · ground · ctcsv..e of · ree EXTERNAL CHANNEL OF control In · at P2. pin · 12 will esull in
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p8 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p8 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p8 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 187 in 78 lines: WA~ D-BECK SYS TE MS LTD. · CIR CUIT OESC RI TI ON · M49QG IC INP UT MOOUL · The outpvt pl"Oduced at pin · of · 10 wil always be · negative going · of · pprox imately 500 milliseconds dura ion. CR1 · ses Ihis · pvlse 10 · 28
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p9 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p9 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -123,7 +123,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p9 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 119 in 83 lines: M490G />lIC INPUT MOOULE · MFG PART NUMBER · Anenuator · connector) · 1550 AH35/ OO · de lete · C2 · Capaeitor · 560 pF · Philip · 2222_630_03561 · 47 pF
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p10 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p10 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p10 
 - **Dots (junctions):** 1
 - **Words (OCR):** 115 in 79 lines: PARTS LI ST · M490G MI · NPUT MODULE · MFG PART NUMBER · CJJ · Cap~c ilor'" · 6800 pF · esetco · C0 92- MC- 68 2M · uF /2S · Kemel · T390822SM02SAS
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p11 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p11 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p11 
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (110.6, 332.8), r 1.7 @ (197.6, 145.5), r 1.7 @ (197.3, 92.3)
 - **Words (OCR):** 92 in 71 lines: WAi=lO -BECK · TEMS LT · PARTS · IST · M490G MIC INPUT · MOOUL · ..rr NUMBER · CR II · Di ode · F"irchi ld · IN4U8 · CRIZ
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p12 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p12 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -155,7 +155,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p12 
 - **Dots (junctions):** 1
 - **Words (OCR):** 64 in 42 lines: WA~ O-B CK SYS TE MS LTO · PART LIST · M490G · Ie NPU MODULE · DESCRI PT ION · Ru slor · Ph il ips · eete re · eerere · as · Ru islor · 220K
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p13 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p13 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -164,7 +164,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p13 
 - **Outlines:** line 337 rings, 2,851 straight (6,058 mm) / 701 curved (1,063 mm); text 380 rings, 2,579 straight (2,784 mm) / 755 curved (1,165 mm)
 - **Words (OCR):** 49 in 38 lines: M490G "'Ie INPUT MODULE · DESCRIPTION · MFG PART NUMBER · Resi,nor · 4W · 51 · Philips · '5O · '52 · sao · 62O · aac
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p14 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p14 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -176,7 +176,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p14 
 - **Dots (junctions):** 1
 - **Words (OCR):** 54 in 44 lines: M490G · PUT MODULE · OESCRIPTION · MFG PART NUMBER · en · 4W · 51 · h:,Ii · PS · R10 · R80 · R82
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p15 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p15 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -187,7 +187,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p15 
 - **Words (OCR):** 87 in 67 lines: AI=ID -BECK SYSTEMS LTD · M490G MIC INPUT MOOUL · MF · PART NUMBER · Rill · Re si stor 1!4W · 'OK · Pn:, ips · RII4 · "'OK · RI I5 · All6
 - **Title block:** (50, 403)–(132, 426) mm: AI=ID -BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p16 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p16 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -198,7 +198,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p16 
 - **Dots (junctions):** 1
 - **Words (OCR):** 50 in 40 lines: WAAC BECK ETETEE · PaRIS · Mleus_Wic iNPUT · PaRT DESCRI?TON · HUMBEF · Reanirt · phmlinx · SmItah · achacon · I-043 · T-111 · deleee
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p17 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p17 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -209,7 +209,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p17 
 - **Dots (junctions):** 1
 - **Words (OCR):** 51 in 25 lines: WARC -BEC · SYS TEMS LTC. · M490G · NPUT MODUL · CONTROL KNOBS CAPS ND BUTT ONS · nef\u. tor Knob Whi · P31470/1 · Barndoor · c;k/Whit · FAIOl_8l..K/WH · c;k /Yell · FAIOl-81K/YEL
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p18 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p18 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -221,7 +221,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p18 
 - **Dots (junctions):** 1
 - **Words (OCR):** 83 in 29 lines: INTEGRATED C1RCUIT DATA · C04016 · OUAD BI LATERAL · SWITCH · The CD4016 is · quad bila teral switch whic ut li ze P-channel · and N-cha nne complementary MOS (C/olO · circu its to pr vi de · xt me · gh "OFF res is an · nd lo "ON" · ta nce wi tch.
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p19 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p19 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -233,7 +233,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p19 
 - **Dots (junctions):** 1
 - **Words (OCR):** 134 in 58 lines: ST · L.TO · NTEGRATED CIRCUIT DATA · illI§. · DUAL · FLIP -FLOP WIT CLEAR AND PRESET · The 74 C76J · flip -fl · is · mono it ic CMOS ci rcui · Each lip · flop has ndependent
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p20 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p20 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -244,7 +244,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p20 
 - **Closed boxes:** 18; named: INPUTS OUTPUTS CLEAR; OUTPUTS; INPUTS; CLEAR
 - **Words (OCR):** 140 in 62 lines: l'".O · STEMS L.TO · trH EGRAHD · C.IRCUIT DATA · illill · DUA HONOSTABLE HULTI VI BRATOR · The 74C221 ual Ilo no · bh multiv rato is · CHO In gr ated · ci · it · ch Ilu ltlv fbra or futu
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p21 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p21 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -256,7 +256,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p21 
 - **Dots (junctions):** 6
 - **Words (OCR):** 60 in 43 lines: 4490 € · ISPIm Solecto · tcnes · muquay · Inter locked · Bjction either · 4nput Gourc · Prggrak · DSSGNhOS · 19Fak; mxing netrorks · IEcnes · depressed.
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p22 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p22 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -269,7 +269,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p22 
 - **Words (OCR):** 138 in 65 lines: M490a · jl · SENSI TIVI TY control RlS · ide$ II co tinuo sl · 30 dB · 'Uli bl · ve · tr ol ll" ge · PROGRAM · ASSIGNMENT switch es SWl) · SW14 whe · depressed. fa ed th
 - **Title block:** (129, 31)–(337, 338) mm: PROGRAM · ASSIGNMENT switch es SWl) · SW14 whe · depressed. fa ed th · lg"_ · mIx ng netwo rks · he app rop ri ate PGHZ · PGH4 mIx ing bus es · Ll DE ATTENUATOR Al TI · Con ro ls ga · of PROGRAM · nel
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p23 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p23 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -280,7 +280,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p23 
 - **Closed boxes:** 3; named: CTL LOGIC
 - **Words (OCR):** 38 in 32 lines: r-311~INSERT · MIC INPUTS · -6b/-30 dBm · )II( · 150 ohm · -oJ · SENSITIVITY · -?lE · INPUT · (30dB · SELECTOR · CONTROL
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p24 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p24 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -294,7 +294,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p24 
 - **Title block:** (118, 5)–(335, 106) mm: ISSUE DATE · REVISION · lAPP. · [\N13S] WARD-BECK SYSTEMS · ps · DRN. · PA · BS · M490G · ENG. PA · MIC INPUT MODULE · CKD · FUNCTIONAL DIAGRAM · tp · APP. · ht · BI 490-01-008 · SCALE · ISSUE
 - **Wiring (first pass):** 31 connected wire groups from 48 runs; labelled ends: 167 mm → P2, Pl.; 86 mm → ~CUE; 32 mm → Pl.; 30 mm → P1; 17 mm → P2
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p25 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p25 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -306,7 +306,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p25 
 - **Dots (junctions):** 1
 - **Words (OCR):** 119 in 97 lines: w,P · S1! I..~C.TO~ · SW · ewa · 30.I&!I,_ · IS · N5 · TS · R'C. · 220/10 · 22 · Pl
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p26 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p26 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -318,7 +318,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p26 
 - **Dots (junctions):** 2
 - **Words (OCR):** 59 in 50 lines: U'T~ TO · MIXIHtO 1DU!tI!.So · PI · lC.~ · 2·2 · GM · a.'TT · cn · Pl · 10 · ZS · 50
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p27 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p27 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -330,7 +330,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p27 
 - **Dots (junctions):** 6
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p28 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p28%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p28 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -342,7 +342,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p28 
 - **Dots (junctions):** 5
 - **Words (OCR):** 60 in 44 lines: 13N\] · Zl · i'i · foJ · .Il · rjir · ..aR:" · iiiH · ii · 1t · ::~21~~ (jJ~ it · Sl:~
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p29 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p29%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p29 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -353,7 +353,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p29 
 - **Dots (junctions):** 2
 - **Words (OCR):** 121 in 80 lines: PI · P2 · PGM OUT · Mle · A1 · PGM OUT · NC · B2 · PGM · OUT · MIC · C3
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p30 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p30%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p30 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p30 (traced).dxf`).
 
 ### Page 31
 
@@ -364,7 +364,7 @@ Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p30 
 - **Words (OCR):** 94 in 64 lines: P2 · A1 MIC · B2 NC · C3 · MIC · D4 · NC · E5 · INSERT · F6 · INSERT · H7
 - **Title block:** (123, 8)–(338, 110) mm: ISSUE DATE · REVISION · lAPP. · [\NE3S] WARD-BECK SYSTEMS · ps · DRN. PA · BS · M490G · ENG. · M.lC INPUT MODULE · CKD. · CONNEC;TOR .REAR VIEW · tp · APP. · el 490-04-015 fo · ht · SCALE · ISSUE
 
-Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p31 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20(2)%20p31%20(traced).json) (the CAD file: `1978 - M490G - Mic Input Module (2) p31 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - Mic Input Module (2) p31 (traced).json](../MANUALS/1978%20-%20M490G%20-%20Mic%20Input%20Module%20%282%29%20p31%20%28traced%29.json) (the CAD file: `1978 - M490G - Mic Input Module (2) p31 (traced).dxf`).
 
 ## Full text
 

@@ -24,7 +24,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Title block:** (148, 0)–(274, 49) mm: WBS · DRN · ENG. PA · Ece 207 · AL ApP · 4e3 Q134014 REVERSED PA · SCALI · ISSuE Dhf · REvisio · APP
 - **Wiring (first pass):** 144 connected wire groups from 851 runs; labelled ends: 563 mm → 242, CRZ, R134, CRK; 412 mm → 23, R94, R32, 22k; 358 mm → 0/25, R4C, R47, 47k; 330 mm → Rc4, Czo, Ri3c, iok; 252 mm → R1t0, Iok, 012, 243s6)
 
-Every curve, box, word and wire group: [1978 - M490G - 490-02-008 - MIC INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-02-008%20-%20MIC%20INPUT%20MODULE%20(traced).json) (the CAD file: `1978 - M490G - 490-02-008 - MIC INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-02-008 - MIC INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-02-008%20-%20MIC%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-02-008 - MIC INPUT MODULE (traced).dxf`).
 
 ## Full text
 

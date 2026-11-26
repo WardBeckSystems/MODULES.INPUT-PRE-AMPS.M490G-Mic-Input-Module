@@ -23,7 +23,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Title block:** (117, 5)–(336, 108) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. PA 82 · MAT · M49OG · ENG. PA · MIC INPUT MODULE · CKD: · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 490-01-008
 - **Wiring (first pass):** 54 connected wire groups from 90 runs; labelled ends: 181 mm → P 3; 32 mm → P 3; 15 mm → P4; 15 mm → P2; 15 mm → P1
 
-Every curve, box, word and wire group: [1978 - M490G - 490-01-008 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-01-008%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1978 - M490G - 490-01-008 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-01-008 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-01-008%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-01-008 - INPUT MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

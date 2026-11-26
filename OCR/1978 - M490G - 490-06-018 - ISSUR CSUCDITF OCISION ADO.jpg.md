@@ -22,7 +22,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Words (OCR):** 35 in 33 lines: (SAM · 4& 44 · 18 · 44443 · 84 · 048 · 17 · 08 · 344 · Im · 444 · 56
 - **Title block:** (230, 6)–(274, 48) mm: WBS · DaN · CKD
 
-Every curve, box, word and wire group: [1978 - M490G - 490-06-018 - ISSUR CSUCDITF OCISION ADO (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-06-018%20-%20ISSUR%20CSUCDITF%20OCISION%20ADO%20(traced).json) (the CAD file: `1978 - M490G - 490-06-018 - ISSUR CSUCDITF OCISION ADO (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-06-018 - ISSUR CSUCDITF OCISION ADO (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-06-018%20-%20ISSUR%20CSUCDITF%20OCISION%20ADO%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-06-018 - ISSUR CSUCDITF OCISION ADO (traced).dxf`).
 
 ## Full text
 

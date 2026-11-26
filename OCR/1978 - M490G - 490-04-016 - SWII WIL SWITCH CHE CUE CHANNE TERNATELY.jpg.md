@@ -20,7 +20,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Closed boxes:** 21; named: shitches Swi and Sw2 : Are mutually inte; PROGRAH switches Shl 3 Assignhent Nhen f; CUE CHANNEL luminated Hi be indicator DS; shitch Shiz: Homentary operat ion Shi2 h; Om shitch CHANNEL Mochanney_ 579 ef 519 
 - **Words (OCR):** 108 in 62 lines: WBS · M490 G · shitches Swi and Sw2 : Are mutually · interlocked and · se lection · either one of two · mic input sourccs · PROGRAH · feed · 3 Assignhent · switches Shl · Nhen
 
-Every curve, box, word and wire group: [1978 - M490G - 490-04-016 - SWII WIL SWITCH CHE CUE CHANNE TERNATELY (traced).json](../MECHANICAL/1978%20-%20M490G%20-%20490-04-016%20-%20SWII%20WIL%20SWITCH%20CHE%20CUE%20CHANNE%20TERNATELY%20(traced).json) (the CAD file: `1978 - M490G - 490-04-016 - SWII WIL SWITCH CHE CUE CHANNE TERNATELY (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-04-016 - SWII WIL SWITCH CHE CUE CHANNE TERNATELY (traced).json](../MECHANICAL/1978%20-%20M490G%20-%20490-04-016%20-%20SWII%20WIL%20SWITCH%20CHE%20CUE%20CHANNE%20TERNATELY%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-04-016 - SWII WIL SWITCH CHE CUE CHANNE TERNATELY (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Words (OCR):** 102 in 58 lines: M49og · SENS iTivity controi R25 Provides con · adjustabIe Ieve contro ange · nuous |y · PROGRAM 2 6 4 ASS IGMMENT switches · Sh14 Khen · depressede · feed che · PGhZ · mixing nethorks · the appropriate · buses.
 - **Title block:** (221, 1)–(335, 61) mm: ISSUE DATE · REVISION · WBS · WARO-BECk SYSTEMS · Mi90 G · ENG PA · Mic · INPUT MODUle · CKD: · LC · FRONT PANEL · APP · SCALE · ISSue · 490-04 -0 16
 
-Every curve, box, word and wire group: [1978 - M490G - 490-04-016 - IGNA PURPOSES FROM REMOTE LOCAT ION RELATED (traced).json](../MECHANICAL/1978%20-%20M490G%20-%20490-04-016%20-%20IGNA%20PURPOSES%20FROM%20REMOTE%20LOCAT%20ION%20RELATED%20(traced).json) (the CAD file: `1978 - M490G - 490-04-016 - IGNA PURPOSES FROM REMOTE LOCAT ION RELATED (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-04-016 - IGNA PURPOSES FROM REMOTE LOCAT ION RELATED (traced).json](../MECHANICAL/1978%20-%20M490G%20-%20490-04-016%20-%20IGNA%20PURPOSES%20FROM%20REMOTE%20LOCAT%20ION%20RELATED%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-04-016 - IGNA PURPOSES FROM REMOTE LOCAT ION RELATED (traced).dxf`).
 
 ## Full text
 

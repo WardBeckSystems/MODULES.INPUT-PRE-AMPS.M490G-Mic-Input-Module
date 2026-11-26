@@ -22,7 +22,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Words (OCR):** 37 in 34 lines: FADER · (-15dB) CH ON · INSERT · 3I€ · Mic INPUTS · ~60 /-30 dBm · 150 ohm · SENSITIvITY · INPUT · (30dB) · SELECTOR · CONTROL
 - **Wiring (first pass):** 178 connected wire groups from 304 runs; labelled ends: 150 mm → INSERT, (-15dB); 60 mm → CUE; 53 mm → 3I€; 41 mm → 3I€; 38 mm → 3I€
 
-Every curve, box, word and wire group: [1978 - M490G - 490-01-008 - OFF ONISTART TIMER RESET OFF TALLY OFF ISTOP (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-01-008%20-%20OFF%20ONISTART%20TIMER%20RESET%20OFF%20TALLY%20OFF%20ISTOP%20(traced).json) (the CAD file: `1978 - M490G - 490-01-008 - OFF ONISTART TIMER RESET OFF TALLY OFF ISTOP (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-01-008 - OFF ONISTART TIMER RESET OFF TALLY OFF ISTOP (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-01-008%20-%20OFF%20ONISTART%20TIMER%20RESET%20OFF%20TALLY%20OFF%20ISTOP%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-01-008 - OFF ONISTART TIMER RESET OFF TALLY OFF ISTOP (traced).dxf`).
 
 ## Full text
 

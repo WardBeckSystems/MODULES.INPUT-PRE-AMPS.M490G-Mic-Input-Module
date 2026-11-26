@@ -23,7 +23,7 @@ Wiki page: [M490G](../../../../PAGES/M490G.md)
 - **Words (OCR):** 262 in 230 lines: R2i · input · c5 · RI7 · 4.7/23 · Riz · 22 · Sw | · Sw2 · I5k · wBS Co - 12 · 24440
 - **Wiring (first pass):** 164 connected wire groups from 861 runs, 3 dotted junctions; labelled ends: 197 mm → R23, 22, cio, R2L; 178 mm → P2-7; 145 mm → Ch, ON; 122 mm → Ch OFF; 120 mm → R/43, 820, 144742, 314
 
-Every curve, box, word and wire group: [1978 - M490G - 490-02-008 - CAST COMPONENT DESIGNTIONS CRIC (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-02-008%20-%20CAST%20COMPONENT%20DESIGNTIONS%20CRIC%20(traced).json) (the CAD file: `1978 - M490G - 490-02-008 - CAST COMPONENT DESIGNTIONS CRIC (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490G - 490-02-008 - CAST COMPONENT DESIGNTIONS CRIC (traced).json](../SCHEMATICS/1978%20-%20M490G%20-%20490-02-008%20-%20CAST%20COMPONENT%20DESIGNTIONS%20CRIC%20%28traced%29.json) (the CAD file: `1978 - M490G - 490-02-008 - CAST COMPONENT DESIGNTIONS CRIC (traced).dxf`).
 
 ## Full text
 
