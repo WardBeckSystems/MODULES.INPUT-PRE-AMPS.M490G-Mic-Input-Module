@@ -1,0 +1,88 @@
+{
+ "module": "M490G",
+ "source": {
+  "file": "MANUALS/1978 - M490G - Mic Input Module (2).pdf",
+  "pages": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ]
+ },
+ "ocr_quality": 0.81,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Parts List 3-1 103-9",
+    "CO.016 Circuit Dete 14C76 Circuit Date 14C221 Circuit Oala",
+    "O<\"a... I\"' 9S:",
+    "M.9OG Front Panel 849Q....04-016 \"\". 9OG functlone l 8490-01_008 M. 9QG Schematic 8490-02_008 \"\".9QG Component Layout 8490-06-018 \"\". 9QG Connector Layout 8490-M_015",
+    "MANUAL ISSUE '2.",
+    "WAR CBECKS YSTEM S LTC."
+   ]
+  },
+  {
+   "heading": "TECHNICAL DATA",
+   "paragraphs": [
+    "M4gOG Ml e INPUT MODULE",
+    "Input Sen sill v i t y: -60 10 -30 dBm (ref. 150 ohms ou rce).",
+    "F\"requency ResPonse: +/-0.5 dB from 30 Hz to 20 kHz.",
+    "1 25 dBm ElM lit maximum SENSITIVITY (20 Hz 10 20 kHz).",
+    "HarmoniC: O; sl o.t ion: Le u Ih ll n 0.3 5S THD from 30 Hz 10 20 kHz III 20 d B llbo ve nominlll OPe r all n g level or rees, Le u than O. l S III I kHz lit 20 dB ll bo venom ina l opera lin g level or less.",
+    "Len lken 0.5 S 1111kHz through cue c:hannel lit 20 d B llbove nominal opera lin g level or less.",
+    "Source I mpe dance: 150 ohms, b ll lll n ced/ u nba l ll n c ed.",
+    "Input Imp e dance: 750 ohms, minimum.",
+    "30,000 ohm., b ll l ll nc ed (p.... g rllm c ircu il s). 60,000 ohm., balanced (cue ci rcu il s).",
+    "OUIPU I Level: o dBm nominlll, +25 dBm maximum (equi vll len i vOl lll g e 600 ohms).",
+    "P h ll sing: Inp ul and ou tpu l le..... ina l s design al ed b y number. lire in phase, 0.lo wer number of numbered p a,r;. in phase w ' l h lower number of olher numbered plli r.",
+    "Logic In p u l Levels: fT o operate CH ON, CH OF\"F\" Ct CUE).",
+    "Logic 0: 0 to +13 volts.",
+    "Logic 1: +16 to +24 vol l s.",
+    "Ext e r n ll l Control Output: l Open collector currents in k).",
+    "Minimum reee Impedll nc:e:",
+    "600 ohms.",
+    "Mllxlm um 10 ll d current: 40 rnA.",
+    "Maximums u p ply vol l \",g e: +24 volts.",
+    "Sa lurat edc:o ll ec tor volt llg e: +2 volts m llxi mum lit 40 mA load."
+   ]
+  },
+  {
+   "heading": "TECHNICAL DATA",
+   "paragraphs": [
+    "Power Req u i r emenl s, \" / -25 volts oc, 40 mA \"omi nal, 80 \"'\"",
+    "o 10 60 degrees Celsius.",
+    "1.6\" wide.. 14.1 5 \" high.. 6.5 \" deep (4 1 mm.. 360 mm.. 165 mm l.",
+    "M4 900 MIC INPUT MODULE",
+    "The M4 SOG p ~ovides complete mic~op hone channel fac il ilie s, inclusive of a slide mixing atl en\" ato~, sO\" r<e setecrc rand mixing bus a sslgn menl s w i l ches, as ~eq ui~ ed fo~ a m ixi ns console inpul.",
+    "I n pu land P~e ampl ifie~",
+    "Tn \" m\" lu ally in le~ locked INPUT SELECTOR swi lc hes SWI and SW2 allow lh e select ion o f one oft wo avail a bl \" mic~ophon e sou~c es. An addil_ io na l c onl acl is.. \"ppl i\"d fo~ cont~ol p,, ~poses on \" a c n sw ilc h.",
+    "T ne Impedance pr-esented by lhe inpu l l ~an s fo ~ m e~ T l iss \" b Slant ia l l y highe~ than l he nominal sourc \" impedance o f 150 ohms. These con d a ~ y of Tl i.. conn ecled to lh e prea mplifi er con.. i.. ting of 01 IhrQ\"g h Q7 and Z I. In P\"1 sens ilivi ly of lh e mod \" l e maybe var ied by ad j\" slment of Ih e SENSITIVITY trim pOl R25, covering a range of 30 d B. R25 I sac ce.... ible I h rough I h e module fronl panel, a d ja ce n l 10 Ih e INPUT SELECTOR switches. The balanced pr.. amp l i f i.. ~ output appea ~s at mod \"l.. conn eClor P2, pins ofF.",
+    "Two series-con nec ted, balanced l rvse r-t points a r.. made avail a b l.. a l P2, pins 6 / F, e/r, 5/ E and 7/H, ope ~ a ting alan om ina l level of o dBm. Th\"y allow Ihe In.... r lion o fan c ill a r y processing \" q u ipmenl inlo lh \" mixing chan n,, 1 signal pal h..u c h a.. a com pr \"sso ~,..qu a liz.. r o~ fill.. r. The pro vision of Iw o s.. r l.. s-c coo ect.. dIn se ~t poi n l S p.. rmi t s lh.. utili zal ion o f I h.. module i n.. t..r..o \" ys l ems such asl h.. WBS R 1200 / R2 000 Con Sole... I n Ihes e and sim ila r.. p pl ic a lions, I h e f unc l lon s.... SOcial e dWi l h the left end rig hl Insertion selectors (M499) may both b.. I ns\"rled into I h e channel, with the left chennel i n se ~l f \"nCl ion p~ec.. d in9 lh e righl chen n el function.",
+    "F~om lh eIn s.. rl POinIS, l he signal is rou led 10 ATTl, a b.. lanced",
+    "slide.. tlenu a lor fe.. t \" ring.. conl ln u ou s mixing r.. ng e of more l hen",
+    "70 d B prior to cutoff. Th.. CUE channel f.. ed is t e ken from lhe In p\" l",
+    "side of Ih.. all.. nuator.",
+    "Program Channel Switch",
+    "Z2 i s a CMOS an.log switch, sl!'t\"\\l'lng a s thea Cll ve switch ing element 01 the PROGRAM channel. The control vol lag e to ope,.ate 2 2 Is Ce,.l ved from the logic c ircult,.y within the module and is coupled to Z 2 via CRI. to,\"wl l c h the channel ON, Ihls control v o ll age i sin I he order of +10 volts. When the control voll aged ro p s to 0 volts, the switch will be OFF, \" esultlng ina signal allen u\" llon of more th.. n 100 d B.",
+    "Following Z2, In te g r'll ed clreuiU Z3 and Z4.. mp li f y the audio sl gn.. 1 t o a nominal level of 0 dBm (e q u Ivalen t voltage). \"rom thea mp li fie rout pu l, the s; g na l is routed tot h e PROGRAM ASSIGNs witches SW4, SWS, SW13, SW14 followed o y the mixing ou s outputs.",
+    "Fo u,. PROGRAM outputs PI, P2, P3 & P4, are designed to feed Into four mixing buses. Operation of ASSIGNMENT SWITCHES SW4, SW5, SW13 & SW14 will result In Ih • •ss l gn men t to Ih e PROGRAM of thea p p,.o p,.l ate mix ing o uses.",
+    "The CUE signal originates from a o ridging takeoff at the In p u l o f the slide e llenuator. Owing tot h e high input Impedance oft he CUE channel its operation hes noe ff ec l 0... the main PROGRAM channel. Z5 \"8I=I\"eHn IS Ih e audios witch fo,. the CUE channel. Simile r ly to Z2, the control voltage for Z5 is gene,.ated int he logic c ire u i t,. y a s cle scrioed fu,.the,. on. The output of Z5 Is followed o y Ihe booller emplif le\" Z6, which i n tu..... f~s the cue bus mixing network Rl 0 l through Rl 04.",
+    "The con lro l vol l...g e s requi,.ed to ope,....te the PROGRAMs witch 22 and the CUEs wItch ZS a,.e generated with Ihe aid of logic cireuil ry",
+    "utilizing integrated circuits Z7 through Z10.",
+    "28 is a CMOS dual f li p-f lcp serving a s ala tc h t o maintain the ~ l a 1U~ of 22 and 25, once they have b.... n se l toe i the r the ONo r the OFF position.",
+    "A number of individual i npu l fun clio n s govern the stat u ~ oft h e dual fl i p_flo p 2 8. A d e script ion of each input f u ncl ion follows;",
+    "When power i ~ i nit i ally applied to the system, the combination of CR9, CR 10, CRI Ian d CR40 will pull down bO l h \" c le ar\" input ~ of 26 until CAO is fully charged, thus e ns u ring that switches 22 and 25 are in the OFF position.",
+    "Momentary operation of the CHANNEL ON switch SW9 will produce a neg a t i v ego ing pulse at 26, pin 2 and \" preset \" thees ecueo of 28. Alternatively, a momentary ground closure oft h e EXTERNAL CHANNEL ON control input a t P2, pin N will result i nth e same condition.",
+    "Once the f l ip_ flop is \" pres et\", its output a t pin 15 changes from 0 to 1 (approximate ly +10 volts). This will cause the PROGRAMs witch 22 to switch ON. Furthermore, 012 will sa lu rate resulting int h e CHANNEL ON indicator lamp DS3 to switCh o n. With 0 12 saturate d, the \" control common \" potential a p pea r$ a t thee m i tte rs of Cl13 and 014. \" POSi live base potential is applied to either 0 13 or 014, depending on whether INPUT SELECTORs witCh SWI o r SW2 is depressed. Eff e.:t i ve l y 0 13, and 0 14 operates i miia r ly tot wo AND gates. The collect o r s o f the two trans i s tors represent the outputs oft he AND gate $. They appear a t 1'2, pin 13 and P. Th e$ e terminals are capable of sinking ama ximum current o f 40 mAe a c h from a 24 volts our Ce and maybe used for muting purposes.",
+    "When opera ting the CHANNEL ON switch SW9, a separate contact is closed, access ib lea t P2, pin $ 15/S. This contact maybe used for control o r signaling purposes.",
+    "Pin R of 1'2 isis ola ted through diode CR3. When conn e<:ted i n",
+    "parallel wilh the same output of other modules, it provides a convenient OR gate configuration, suitable tor ese t a com mon lime r",
+    "each time a CHANNEL ON button i$ depressed."
+   ]
+  }
+ ]
+}
