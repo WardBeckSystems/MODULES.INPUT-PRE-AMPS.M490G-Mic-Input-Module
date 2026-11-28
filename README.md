@@ -1,6 +1,6 @@
 # M490G Mic Input Module · Input Pre Amps
 
-Ward-Beck Systems M490G, 1978|11. Wiki page: [M490G on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490G.html)
+Ward-Beck Systems M490G, 1978|11. Wiki page: [M490G on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490G-Mic-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

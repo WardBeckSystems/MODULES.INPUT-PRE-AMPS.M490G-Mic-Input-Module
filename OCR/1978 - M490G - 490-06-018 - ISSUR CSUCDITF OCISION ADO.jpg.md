@@ -1,5 +1,5 @@
 # 1978 - M490G - 490-06-018 - ISSUR CSUCDITF OCISION ADO.jpg
-Wiki page: [M490G](../../../../PAGES/M490G.md)
+Wiki page: [M490G](../)
 
 
 - **Year:** 1978 (module estimate (family))

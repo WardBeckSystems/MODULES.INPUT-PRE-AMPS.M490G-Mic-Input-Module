@@ -1,5 +1,5 @@
 # 1978 - M490G - 490-02-008 - MIC INPUT MODULE.jpg
-Wiki page: [M490G](../../../../PAGES/M490G.md)
+Wiki page: [M490G](../)
 
 
 - **Year:** 1978 (module estimate (family))
